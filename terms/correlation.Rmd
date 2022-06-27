@@ -1,6 +1,6 @@
 ## correlation
 
-<dfn>The relationship two [vectors](v.html#vector) have to each other.</dfn>
+<dfn>The relationship two [standardized](s.html#standardize) [vectors](v.html#vector) have to each other.</dfn>
 
 If you sample two sets of numbers independently, they will have a correlation close to 0 (on average). If one number perfectly predicts the other, the correlation is 1 if one gets bigger as the other gets bigger and -1 if one gets smaller as the other gets smaller.
 
